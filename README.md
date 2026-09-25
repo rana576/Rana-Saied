@@ -127,7 +127,7 @@ Digital counter circuit designed and implemented for digital logic coursework.
 
 📍 Cairo, Egypt
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/rana-saied-428989437?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
